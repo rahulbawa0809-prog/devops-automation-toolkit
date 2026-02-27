@@ -45,3 +45,4 @@ echo " Environment Setup Completed ✅ "
 echo "================================="
 
 echo "Setup completed successfully at $(date)" >> $LOG_FILE
+echo "DevOps Toolkit Running"
